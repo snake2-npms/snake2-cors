@@ -1,0 +1,16 @@
+{
+  "name": "snake2-core",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.0",
+    "koa-router": "^7.4.0",
+    "snake2-utils": "^0.0.1"
+  }
+}
